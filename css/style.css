@@ -1,0 +1,27 @@
+
+
+
+h3{
+    color: #bdcfdd;
+    background: #000;
+    height: 25px;
+    width: 600px;
+    padding: 15px 20px;
+}
+
+h2{
+    color: #324453;
+    background: rgb(207, 151, 151);
+    height: 25px;
+    width: 600px;
+    padding: 15px 20px;
+}
+
+p{
+    color: #c8d7e4;
+    background: rgb(37, 26, 85);
+    height: 150px;
+    width: 600px;
+    padding: 15px 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
